@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Coffee Shop`,
     description: `Boutique en ligne de vente de produits de Café`,
-    author: `@_MebareK-`,
+    author: `@_MebareK_`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
