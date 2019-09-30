@@ -32,7 +32,8 @@ h6 {
   font-size: 2rem;
 }
 
-.default-background {
+.default-background,
+.about-background {
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -41,6 +42,10 @@ h6 {
   background-position: center !important;
   background-size: cover !important;
   opacity: 1 !important;
+}
+
+.about-background {
+  min-height: 60vh;
 }
 
 .btn-yellow {

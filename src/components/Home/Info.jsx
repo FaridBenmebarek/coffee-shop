@@ -22,7 +22,7 @@ export default function Info() {
             </p>
             <Link to="/about/">
               <button className="btn text-uppercase btn-yellow">
-                A propos
+                À propos
               </button>
             </Link>
           </div>
