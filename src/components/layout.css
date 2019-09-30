@@ -70,3 +70,11 @@ h6 {
 .amiral:hover {
   color: var(--mainYellow);
 }
+
+.itemTitle {
+  text-transform: capitalize;
+}
+
+.menu {
+  background: var(--mainGrey)
+}
