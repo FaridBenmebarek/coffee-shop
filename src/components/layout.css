@@ -71,7 +71,8 @@ h6 {
   color: var(--mainYellow);
 }
 
-.itemTitle {
+.itemTitle,
+.product-title {
   text-transform: capitalize;
 }
 
