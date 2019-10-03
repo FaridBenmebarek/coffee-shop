@@ -11,7 +11,7 @@ import Products from "./../components/Home/Products"
 
 const IndexPage = ({ data }) => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Accueil" />
     <BackgroundSection
       img={data.img.childImageSharp.fluid}
       title="coffee shop"

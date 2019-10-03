@@ -18,6 +18,11 @@ class Navbar extends Component {
         path: "/about",
         text: "à propos",
       },
+      {
+        id: 3,
+        path: "/contact",
+        text: "contact",
+      },
     ],
   }
 
@@ -61,7 +66,7 @@ https://www.iconfinder.com/webalys */}
               )
             })}
             <li className="nav-item ml-sm-5">
-              <FaCartArrowDown className="cart-icon" />
+              <FaCartArrowDown className="cart-icon snipcart-checkout" />
             </li>
           </ul>
         </div>

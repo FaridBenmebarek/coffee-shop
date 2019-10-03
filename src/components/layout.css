@@ -76,6 +76,11 @@ h6 {
   text-transform: capitalize;
 }
 
-.menu {
+.menu,
+.contact {
   background: var(--mainGrey)
+}
+
+.contact-text {
+  font-weight: bold;
 }
