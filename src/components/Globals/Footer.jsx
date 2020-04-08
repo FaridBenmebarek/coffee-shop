@@ -12,12 +12,12 @@ export default function Footer() {
             <h6>
               Réalisé par{" "}
               <a
-                href="https://farid-benmebarek.fr"
+                href="http://farid-benmebarek.fr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="amiral"
               >
-                Amiral du Web
+                Farid Benmebarek
               </a>
             </h6>
           </div>
